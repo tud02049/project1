@@ -1,0 +1,53 @@
+//file containing the example and the library block.
+
+
+
+
+
+My name is Mark and I am writing in reference to your Technical Support Case #02778817 regarding 'simulink'. 
+
+
+I understand you would like to send a message to a device but you are receiving an error when simulating your model. The error you are receiving is due to library linked blocks that are unable to locate the target library. To resolve this issue locate the library containing the block that this model is referencing.
+
+Then, double click on the block that is causing the error (the block displaying ' "realtime_pacer_lib" not found ') to open the block parameters.
+
+For the "Source block" parameter, input the path to the block you are referencing from the library. For the path, suppose you have a library file title "LibraryLinks.slx" and the name of the block you are referencing from this library is "LinkedBlock". The path for that you would enter into the "Source block" parameter would be "LibraryLinks/LinkedBlock". Not that the .slx extension is not used in the path.
+
+Please let me know if you have any more questions regarding this issue and I will be happy to assist you further.
+
+
+Please preserve the Reference ID in further correspondence on this query. This allows our systems to automatically associate your reply to the appropriate Case. 
+
+If you have a new technical support question, please submit a new request here:
+http://www.mathworks.com/support/servicerequests/create.html
+ 
+ // second communication
+ This is in reference to your Technical Support Case #02787761 regarding 'simulink'. 
+
+In order to better assist you, please send us the following information: 
+
+1) The complete output displayed after entering the command,
+
+>> ver -support
+
+at the MATLAB command line. This will provide us with details regarding your license, product, and platform.
+
+2) A detailed description of the issue you are encountering.
+
+3) The exact error messages you are receiving, if any.
+
+4) The precise steps needed to reproduce the issue.
+
+5) Any relevant files, both code and data.
+
+
+We look forward to getting the above information from you.
+
+Use the following link to view and update your Case online:
+http://www.mathworks.com/support/servicerequests/index.html
+
+Please preserve the Reference ID in any further correspondence on this query. This will allow our systems to automatically assign your reply to the appropriate Case. 
+
+Sincerely, 
+Sebastian Kammer
+MathWorks Technical Support Department 
