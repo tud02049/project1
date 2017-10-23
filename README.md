@@ -49,3 +49,12 @@
 
 - the above is the communication with mathwork.
 - this communication was with matlab expert regarding the problem with the project.
+
+** My Youtube video Presenting my Work **
+
+Watch "Digital control" on YouTube
+https://youtu.be/47_MptqsTTA
+
+
+
+
