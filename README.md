@@ -6,5 +6,5 @@
 
 - this help connect to the roombawifi.
 
--the code was copied from roombainit and past it to  matlabfunction.
+- the code was copied from roombainit and past it to  matlabfunction.
 
