@@ -1,3 +1,4 @@
+
 # project1
 
 <img width="221" alt="capture1 roombainit" src="https://user-images.githubusercontent.com/31491698/31909389-cc6b0ec0-b7ee-11e7-812c-4fa4f6e8812c.PNG">
@@ -18,3 +19,13 @@
 
 - each eye is controle by it own sensor.
 - whenever there is an obtacle in front of one eye that particular eye read 1.
+
+**Wheels Block**
+
+<img width="193" alt="capture3" src="https://user-images.githubusercontent.com/31491698/31910480-759be886-b7f2-11e7-9e8d-8a132143f52a.PNG">
+
+- the wheel just control the motion of the roomba.
+
+- on that there are three input.
+
+- two are for the speed control: it control eather the wheel go back and forth. 
