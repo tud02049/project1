@@ -29,3 +29,18 @@
 - on that there are three input.
 
 - two are for the speed control: it control eather the wheel go back and forth. 
+
+** Example Block **
+
+<img width="626" alt="capture4" src="https://user-images.githubusercontent.com/31491698/31910809-86007560-b7f3-11e7-832b-b85d35a5085b.PNG">
+
+- this is everything put together.
+
+- from left to right:
+
+- we have the roomba wifi block.
+
+- the wheel block and the sensor block on the top.
+
+
+
