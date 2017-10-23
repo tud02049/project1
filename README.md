@@ -1,4 +1,4 @@
-
+thi
 # project1
 
 <img width="221" alt="capture1 roombainit" src="https://user-images.githubusercontent.com/31491698/31909389-cc6b0ec0-b7ee-11e7-812c-4fa4f6e8812c.PNG">
@@ -56,5 +56,5 @@ Watch "Digital control" on YouTube
 https://youtu.be/47_MptqsTTA
 
 
-
+- this video above demonstrate how my project work.
 
