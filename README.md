@@ -43,4 +43,9 @@
 - the wheel block and the sensor block on the top.
 
 
+** The communication with mathwork **
 
+[mathwork.pdf](https://github.com/tud02049/project1/files/1408682/mathwork.pdf)
+
+- the above is the communication with mathwork.
+- this communication was with matlab expert regarding the problem with the project.
